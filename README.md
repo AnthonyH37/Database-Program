@@ -59,8 +59,8 @@ preferred java IDE or run from the command line.
   * Program is operational and all functionality is working.
 
 ## Authors
+* Anthony Horvath
 * Ryan McGuire
-* James Hood
 
 ## Acknowledgments
 * Scott Vanselow for helping with the development of code.
