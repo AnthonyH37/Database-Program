@@ -61,6 +61,7 @@ preferred java IDE or run from the command line.
 ## Authors
 * Anthony Horvath
 * Ryan McGuire
+* James Hood
 
 ## Acknowledgments
 * Scott Vanselow for helping with the development of code.
